@@ -20,3 +20,17 @@
 arr = []
 insert_elements(arr, [10 ,20 , 30 , 40 , 50])
 pritnt_elements(arr)
+
+# Complexity---
+#
+# Insert elemnets--
+# Time : O(n)
+# add items one by one
+# Space : O(n)
+# more items more space
+#
+# Print Items--
+# Time : O(n)
+# print each item one time
+# Space : O(1)
+# Doesn't need extra memory
