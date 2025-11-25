@@ -1,0 +1,1 @@
+Problem 1- On Array Task 1- Declare Array and insert elements in it Task 2-And print the element in the Array Task-3 Calculate time and space complexity Condition 1- Create a separate function to insert elements in array Condition 2-Create a function to print elements in array Condition 3-Optimize the code at the end
